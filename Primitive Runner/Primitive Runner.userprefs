@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuButton.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Swipe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PowerUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TotalCap.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TotalCoin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ClickButton.cs" Line="9" Column="20" />
+      <File FileName="Assets\Scripts\MoveShpere.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="18" Column="30" />
+      <File FileName="Assets\Scripts\TotalScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuButton.cs" Line="25" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
